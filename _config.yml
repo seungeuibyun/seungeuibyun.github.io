@@ -24,9 +24,9 @@ title_separator          : "-"
 subtitle                 : 변승의 #"Seungeui Byun" # site tagline that appears below site title in masthead
 name                     : "Seungeui Byun"
 description              : "A website for my portfolio."
-url                      : "https://shoreview01.github.io"
+url                      : "https://seungeuibyun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/shoreview01/shoreview01.github.io"
+repository               : "https://github.com/seungeuibyun/seungeuibyun.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Seungeui Byun" # overrides the website title displayed in the masthead, use " " for no title
@@ -126,7 +126,7 @@ author:
       url: mailto:shoreview01@korea.ac.kr
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/shoreview01"
+      url: "https://github.com/seungeuibyun"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://your-website.com"
@@ -154,7 +154,7 @@ footer:
       url: "https://www.linkedin.com/in/seungeui-byun-5b02881b8/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/shoreview01"
+      url: "https://github.com/seungeuibyun"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
