@@ -16,7 +16,7 @@ layout: single
   <li>
     <strong>Reliability Constrained Rate-Area Frontier for Common Secure Key Establishment in Spatial Quantum Networks</strong><br>
     <span class="pub-authors">Seunggwan Oh, <strong>Seungeui Byun</strong>, and Sang Hyun Lee*</span>
-    <span class="conf-name">IEEE Global Communications Conference Workshops (GLOBECOM Wkps)</span>
+    <span class="conf-name">IEEE Global Communications Conference Workshops (GLOBECOM Workshops)</span>
   </li>
 </ul>
   
